@@ -47,10 +47,3 @@ Cette application Android récupère la position GPS de l’utilisateur, l’env
 - Validation des paramètres sur le serveur
 - Gestion des erreurs avec toasts et logs
 
-## Auteur
-
-Votre Nom – [@votrecompte](https://github.com/votrecompte)
-
-## Licence
-
-Projet pédagogique – libre d’utilisation.
