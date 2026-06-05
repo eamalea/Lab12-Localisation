@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Localisation</string>
+    <string name="provider_enabled">Fournisseur %s activé</string>
+    <string name="provider_disabled">Fournisseur %s désactivé</string>
+    <string name="provider_new_status">Fournisseur %1$s : nouveau statut %2$s</string>
+    <string name="new_location">Nouvelle position : Lat= %1$s, Lon= %2$s, Alt= %3$s, précision= %4$s m</string>
+</resources>
